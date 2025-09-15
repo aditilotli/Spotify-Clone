@@ -17,3 +17,7 @@ If any one of the album is selected it looks like this:
 Highlighted features work as required
 
 <img width="1911" height="927" alt="image" src="https://github.com/user-attachments/assets/324c41bc-59aa-4b09-b340-e1823c106a58" />
+
+#Demo link
+
+https://lucky-speculoos-a365b7.netlify.app/
